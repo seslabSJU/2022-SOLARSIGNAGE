@@ -1,0 +1,20 @@
+{
+  "name": "Solar-AE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gpsd-client.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "node-gpsd-client": "^1.4.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

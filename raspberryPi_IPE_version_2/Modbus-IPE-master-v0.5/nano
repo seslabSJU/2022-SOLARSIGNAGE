@@ -1,0 +1,10 @@
+[Unit]
+Description = Epsolar driver setting
+After = network.target
+
+[Service]
+WorkingDirectory = /home/pi
+ExecStart = sudo ./epsolar.sh
+
+[Install]
+WantedBy = multi-user.target

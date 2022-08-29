@@ -1,0 +1,9 @@
+[2019-09-30T07:43:42.863] [ERROR] default - Application is failed to start. Error: Cannot find module './config/app_config.js'
+Require stack:
+- /home/testinglaptop/lucky_lady/code_base/solar-ui/server_express.js
+[2020-02-20T00:18:49.441] [ERROR] default - Application is failed to start. Error: Cannot find module './config/app_config.js'
+Require stack:
+- /home/testinglaptop/lucky_lady/code_base/solar-ui/server_express.js
+[2020-12-21T14:06:46.794] [ERROR] default - Application is failed to start. Error: Cannot find module './config/app_config.js'
+Require stack:
+- F:\myProject\solar-signage-v1.0\[web]solar-ui\server_express.js
